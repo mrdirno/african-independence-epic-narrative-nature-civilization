@@ -1,0 +1,160 @@
+{
+  "book_id": "african_independence_epic_narrative_nature_civilization",
+  "title": "The River's Measure",
+  "tagline": "A nation's soul is forged where the forest meets the future.",
+  "target_words": 70000,
+  "actual_words": 65051,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Agency of the Natural World",
+    "The Violence of Cartography",
+    "Indigenous Knowledge vs. Colonial Progress",
+    "The Personal as Political Landscape"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Stone in the Spirit",
+      "words": 2700
+    },
+    {
+      "ch": 2,
+      "title": "Maps and Memory",
+      "words": 2800
+    },
+    {
+      "ch": 3,
+      "title": "The Council of Elders",
+      "words": 2600
+    },
+    {
+      "ch": 4,
+      "title": "The Language of Roots",
+      "words": 2500
+    },
+    {
+      "ch": 5,
+      "title": "Bingham's Ledger",
+      "words": 2900
+    },
+    {
+      "ch": 6,
+      "title": "Adowa's Defiance",
+      "words": 2400
+    },
+    {
+      "ch": 7,
+      "title": "The Whisper in the Cocoa Groves",
+      "words": 3100
+    },
+    {
+      "ch": 8,
+      "title": "Old Man Hama's Warning",
+      "words": 2200
+    },
+    {
+      "ch": 9,
+      "title": "The Axe at Dawn",
+      "words": 3300
+    },
+    {
+      "ch": 10,
+      "title": "A Fractured Compound",
+      "words": 2700
+    },
+    {
+      "ch": 11,
+      "title": "Journey to the Coast",
+      "words": 3500
+    },
+    {
+      "ch": 12,
+      "title": "The City of Concrete Dreams",
+      "words": 3600
+    },
+    {
+      "ch": 13,
+      "title": "Allies in the Printshop",
+      "words": 2800
+    },
+    {
+      "ch": 14,
+      "title": "The Philosophy of the River",
+      "words": 2300
+    },
+    {
+      "ch": 15,
+      "title": "A Fire in the 'Unused' Forest",
+      "words": 3400
+    },
+    {
+      "ch": 16,
+      "title": "Arrested Development",
+      "words": 2900
+    },
+    {
+      "ch": 17,
+      "title": "Prison Soil",
+      "words": 2600
+    },
+    {
+      "ch": 18,
+      "title": "The General's Bargain",
+      "words": 3200
+    },
+    {
+      "ch": 19,
+      "title": "Return to a Changed River",
+      "words": 2800
+    },
+    {
+      "ch": 20,
+      "title": "The School's First Lesson",
+      "words": 3100
+    },
+    {
+      "ch": 21,
+      "title": "Teaching the Map and the Territory",
+      "words": 2900
+    },
+    {
+      "ch": 22,
+      "title": "Harvest of Ideas",
+      "words": 2700
+    },
+    {
+      "ch": 23,
+      "title": "The Dam",
+      "words": 4000
+    },
+    {
+      "ch": 24,
+      "title": "A New Grammar for the Land",
+      "words": 3800
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a scene where a character must translate a colonial legal document for an elder, grappling with concepts that have no equivalent in their native tongue.",
+      "Create a monologue from the perspective of the Volta River, observing the changes from Kwame's childhood to the construction of the dam.",
+      "Draft a letter from Adowa to a pen-pal in another newly independent African nation, comparing their struggles with 'development'.",
+      "Imagine a folk tale Old Man Hama would tell about the spirit of a bulldozer, and how to appease or outwit it."
+    ],
+    "technical": [
+      "Build an interactive map that layers colonial-era boundaries over indigenous place names and ecological features, allowing users to toggle between 'official' and 'lived' geography.",
+      "Design a text-based game where the player, as a village council, must make choices balancing immediate material 'progress' against long-term cultural and environmental costs."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Chinua Achebe",
+      "Wangari Maathai",
+      "Frantz Fanon",
+      "Ben Okri"
+    ]
+  },
+  "cover_prompt": "A colossal, ancient baobab tree, its roots like river deltas and its trunk a living map of scars, actively pushes back against the geometric grid of a neon-lit, futuristic city encroaching upon its sacred grove, [Detailed Scene & Context: in a twilight zone where bioluminescent fungi meet holographic projections, and surveyor's stakes are entwined with resilient vines, depicting the tense frontier between primal forest and arrogant progress], [Artistic Style & Medium: in the atmospheric, mythic-realist style of Wangechi Mutu's collages and the epic, textured environmental storytelling of Thomas Cole's Hudson River School, rendered as a hyper-detailed matte painting], [Composition & Camera: book cover framing, a centered and powerful composition looking up at the defiant tree, a low-angle shot that emphasizes its monumental scale against the synthetic skyline], [Lighting & Color Palette: dramatic chiaroscuro lighting with a clash of color temperatures: the warm, deep amber and viridian greens of the forest interior versus the cold, electric blues and violets of the city, all under a bruised twilight sky], [Quality & Technical Enforcers: masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev]."
+}
